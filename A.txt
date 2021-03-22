@@ -3,3 +3,4 @@ hello
 this is done by dev1.
 Dev1
 dev2
+a small change by feature 2.
